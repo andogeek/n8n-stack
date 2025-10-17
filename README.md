@@ -1,6 +1,10 @@
 This is complete initial stack to setup your N8N instance with postgres database for long term memory 
 and Qdrant vector database for embeddings to store.
 
+Get 60days free trial from Digital Ocean
+
+https://try.digitalocean.com/app-platform/?irclickid=0-oyGkWUjxycTu10v%3AQO80UFUkpyswxnK3KL0o0&irgwc=1&utm_campaign=2933979&utm_content=&utm_medium=affiliates&utm_source=impact
+
 Steps:
 
 1- update your system
