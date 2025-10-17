@@ -25,4 +25,8 @@ sudo apt install docker-ce
 
 sudo apt install git
 
+git clone https://github.com/andogeek/n8n-stack.git
 
+cd n8n-stack
+
+docker compose up -d
